@@ -1,3 +1,31 @@
 .header{
-    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.titulo-hader{
+
+}
+
+.titu2{
+    background-color: greenyellow;
+    color: white;
+    padding: 0.5rem 0.3rem;
+    border-radius: 100px;
+}
+
+.btn-header{
+    text-decoration: none;
+    width: 50px;
+    height: 20px;
+
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
