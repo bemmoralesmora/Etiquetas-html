@@ -3,3 +3,27 @@
     justify-content: space-between;
     align-items: center;
 }
+
+.scl{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+}
+
+.scl img{
+    width: 100px;
+    height: 80px;
+}
+
+
+.lista{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.lista ul{
+    font-size: 15px;
+    font-weight: 500;
+}
